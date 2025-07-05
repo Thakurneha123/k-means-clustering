@@ -1,6 +1,6 @@
 # K-Means Clustering Implementations  
-**Author:** Alisha Shrestha  
-**CRN:** 021-307  
+**Author:** Neha Thakur 
+**CRN:** 021-345
 
 ---
 
